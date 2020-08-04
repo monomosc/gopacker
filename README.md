@@ -1,7 +1,7 @@
 # gopacker
 A way to get Vendored Modules into Corporate Networks
 
-Currenty Runs under https://gopacker.monomo.network
+Currenty Runs at https://gopacker.monomo.network
 
 Example call: `https://gopacker.monomo.network/package?package=https://github.com/micromdm/scep`
 
